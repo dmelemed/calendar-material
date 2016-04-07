@@ -2,11 +2,15 @@
   "name": "starter-node-angular",
   "main": "server.js",
   "dependencies": {
+    "angular-bootstrap-datetimepicker": "^1.0.1",
     "body-parser": "~1.4.2",
     "bower": "^1.7.7",
     "express": "~4.5.1",
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^4.0.0",
     "highcharts": "^4.2.3",
     "method-override": "~2.0.2",
+    "moment": "^2.12.0",
     "mongoose": "~3.6.2"
   }
 }

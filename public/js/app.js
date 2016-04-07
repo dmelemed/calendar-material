@@ -1,4 +1,4 @@
-var app = angular.module('StarterApp', ['ngMaterial', 'ngMdIcons', 'ngAnimate', 'ngAria']);
+var app = angular.module('StarterApp', ['ngMaterial', 'ngMdIcons', 'ngAnimate', 'ngAria', 'ui.bootstrap.datetimepicker']);
 
 app.config(function($mdThemingProvider) {
   var customBlueMap = $mdThemingProvider.extendPalette('light-blue', {
